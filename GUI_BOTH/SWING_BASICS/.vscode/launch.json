@@ -1,0 +1,207 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "gridbaglayout1",
+            "request": "launch",
+            "mainClass": "gridbaglayout1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "cardlayout1",
+            "request": "launch",
+            "mainClass": "cardlayout1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "flowlayout1",
+            "request": "launch",
+            "mainClass": "flowlayout1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "gridlayout1",
+            "request": "launch",
+            "mainClass": "gridlayout1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "borderlayout1",
+            "request": "launch",
+            "mainClass": "borderlayout1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "layeredpane1",
+            "request": "launch",
+            "mainClass": "layeredpane1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "jtoolbar1",
+            "request": "launch",
+            "mainClass": "jtoolbar1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "filechooser1",
+            "request": "launch",
+            "mainClass": "filechooser1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "spinner1",
+            "request": "launch",
+            "mainClass": "spinner1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "jslider1",
+            "request": "launch",
+            "mainClass": "jslider1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "tabbedpane1",
+            "request": "launch",
+            "mainClass": "tabbedpane1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "jtree1",
+            "request": "launch",
+            "mainClass": "jtree1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "progressbar1",
+            "request": "launch",
+            "mainClass": "progressbar1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "separator2",
+            "request": "launch",
+            "mainClass": "separator2",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "separator1",
+            "request": "launch",
+            "mainClass": "separator1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "popupmenu2",
+            "request": "launch",
+            "mainClass": "popupmenu2",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "popupmenu1",
+            "request": "launch",
+            "mainClass": "popupmenu1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "menubar1",
+            "request": "launch",
+            "mainClass": "menubar1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "optionpane2",
+            "request": "launch",
+            "mainClass": "optionpane2",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "optionpane",
+            "request": "launch",
+            "mainClass": "optionpane",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "jtable1",
+            "request": "launch",
+            "mainClass": "jtable1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "ComboBox1",
+            "request": "launch",
+            "mainClass": "ComboBox1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "radiobutton1",
+            "request": "launch",
+            "mainClass": "radiobutton1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "food_jcheckbox",
+            "request": "launch",
+            "mainClass": "food_jcheckbox",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "jpasswordfield2",
+            "request": "launch",
+            "mainClass": "jpasswordfield2",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "jpasswordfield1",
+            "request": "launch",
+            "mainClass": "jpasswordfield1",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "jlabel_ip",
+            "request": "launch",
+            "mainClass": "jlabel_ip",
+            "projectName": "SWING_BASICS_98fd7c4a"
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "",
+            "args": "${command:SpecifyProgramArgs}"
+        }
+    ]
+}

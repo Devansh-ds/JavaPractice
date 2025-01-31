@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Sudoku.Main",
+            "projectName": "UncompletedProjects_1d2344e6"
+        },
+        {
+            "type": "java",
+            "name": "SnakeGame",
+            "request": "launch",
+            "mainClass": "SnakeGame",
+            "projectName": "UncompletedProjects_1d2344e6"
+        },
+        {
+            "type": "java",
+            "name": "PuzzleGame",
+            "request": "launch",
+            "mainClass": "PuzzleGame",
+            "projectName": "UncompletedProjects_1d2344e6"
+        },
+        {
+            "type": "java",
+            "name": "IPFinder",
+            "request": "launch",
+            "mainClass": "IPFinder",
+            "projectName": "UncompletedProjects_1d2344e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "",
+            "args": "${command:SpecifyProgramArgs}"
+        }
+    ]
+}

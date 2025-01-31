@@ -1,0 +1,74 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "jbutton1driver",
+            "request": "launch",
+            "mainClass": "jbutton1driver",
+            "projectName": "12hrYT_989eaa6c"
+        },
+        {
+            "type": "java",
+            "name": "jpanel1",
+            "request": "launch",
+            "mainClass": "jpanel1",
+            "projectName": "12hrYT_989eaa6c"
+        },
+        {
+            "type": "java",
+            "name": "gui_label1",
+            "request": "launch",
+            "mainClass": "gui_label1",
+            "projectName": "12hrYT_989eaa6c"
+        },
+        {
+            "type": "java",
+            "name": "gui2testingclass",
+            "request": "launch",
+            "mainClass": "gui2testingclass",
+            "projectName": "12hrYT_989eaa6c"
+        },
+        {
+            "type": "java",
+            "name": "gui1",
+            "request": "launch",
+            "mainClass": "gui1",
+            "projectName": "12hrYT_989eaa6c"
+        },
+        {
+            "type": "java",
+            "name": "GUI1",
+            "request": "launch",
+            "mainClass": "GUI.GUI1",
+            "projectName": "12hrYT_989eaa6c"
+        },
+        {
+            "type": "java",
+            "name": "File3",
+            "request": "launch",
+            "mainClass": "File3",
+            "projectName": "12hrYT_989eaa6c"
+        },
+        {
+            "type": "java",
+            "name": "File2",
+            "request": "launch",
+            "mainClass": "File2",
+            "projectName": "12hrYT_989eaa6c"
+        },
+        {
+            "type": "java",
+            "name": "File1",
+            "request": "launch",
+            "mainClass": "File1",
+            "projectName": "12hrYT_989eaa6c"
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "",
+            "args": "${command:SpecifyProgramArgs}"
+        }
+    ]
+}
